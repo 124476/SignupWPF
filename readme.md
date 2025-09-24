@@ -1,3 +1,7 @@
 # Форма регистрации/авторизации
 
-<video src='https://rutube.ru/play/embed/1d46451c8e964a2df1401b5c379ca936/?p=null' width=180/>
+## Демонстрация работы (.mp4)
+[Скачать/посмотреть видео демо](video.mp4)
+
+## Демонстрация работы (рутуб)
+https://rutube.ru/play/embed/1d46451c8e964a2df1401b5c379ca936/?p=null
